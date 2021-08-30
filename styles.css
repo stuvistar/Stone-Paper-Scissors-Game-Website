@@ -14,12 +14,16 @@ body {
   background-color: #393E46;
 }
 
+.button{
+  margin:30px auto;
+}
+
 h1 {
   margin: 30px 15px 22px 15px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 4rem;
-  color: yellow;
+  color: #ffc107;
 }
 
 
